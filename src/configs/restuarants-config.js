@@ -4,7 +4,8 @@ export default [
     information: {
       name: "Restaurant 1",
       diningtype: "type 1",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUQTAds34HTvtUC2KxGHqNJnM00QWHY0Yxf1D_O3gNXvrKCnWv",
       sponsored: true,
       location: "Somewhere on map",
       address: "address information",
@@ -41,7 +42,8 @@ export default [
     information: {
       name: "Restaurant 2",
       diningtype: "type 2",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt_6h1VHmNrolnbFdyQqc8yPf0zBfQvDgJFKSdIAf5Pn66vZnU",
       sponsored: false,
       location: "Somewhere on map",
       address: "address information",
@@ -75,7 +77,8 @@ export default [
     information: {
       name: "Restaurant 3",
       diningtype: "type 1",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLPOEkY9rrXoMSVGrFhinp_FDoJ7AuqHTi8PkYKh9gKhialwm&s",
       sponsored: true,
       location: "Somewhere on map",
       address: "address information",
@@ -112,7 +115,8 @@ export default [
     information: {
       name: "Restaurant 4",
       diningtype: "type 4",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQN0w65wkki1UGDfqki1jBd6Qn7LY-FGO-wUCytysuu_Hq7_lW",
       sponsored: true,
       location: "Somewhere on map",
       address: "address information",
@@ -149,7 +153,8 @@ export default [
     information: {
       name: "Restaurant 5",
       diningtype: "type 3",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdK3px9tBku809oNBzCUJgQ2IJrohc2vss5eJeBjdkSTWMGY8k",
       sponsored: true,
       location: "Somewhere on map",
       address: "address information",
@@ -182,7 +187,8 @@ export default [
     information: {
       name: "Restaurant 6",
       diningtype: "type 3",
-      image: "imagePate",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBk1CVsGI94T_-qKSAW33SjTGXNIndrDVx-Kye0PRFLDqT0QIJ",
       sponsored: true,
       location: "Somewhere on map",
       address: "address information",

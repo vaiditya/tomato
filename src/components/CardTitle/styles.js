@@ -32,6 +32,9 @@ const CardTitleStyle = styled.div`
       padding: 3px 10px;
       align-items: center;
     }
+    .image-section {
+      padding-right: 10px;
+    }
   }
 `;
 

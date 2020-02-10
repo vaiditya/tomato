@@ -10,7 +10,15 @@ export default props => {
     <CardTitleStyle>
       <div className="title-content">
         <Row>
-          <Col span={6}>Image</Col>
+          <Col span={6}>
+            <div className="image-section">
+              <img
+                style={{ maxWidth: "100%", height: "auto" }}
+                alt="example"
+                src={details.image}
+              />
+            </div>
+          </Col>
           <Col span={14}>
             <div className="sponsored">{details.sponsored && "SPONSORED"}</div>
             <div className="diningtype">{details.diningtype}</div>
